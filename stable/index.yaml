@@ -3,6 +3,15 @@ entries:
   elastalert:
   - apiVersion: v1
     appVersion: 0.2.1-dev
+    created: "2020-03-19T00:40:00.349302+09:00"
+    description: ElastAlert Helm chart for Kubernetes
+    digest: 7c23525e98631326e0e57f6bfc07c68f579eacbe4a18dcd5a468e6253510c602
+    name: elastalert
+    urls:
+    - elastalert-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: 0.2.1-dev
     created: "2020-02-24T18:02:55.253788+09:00"
     description: ElastAlert Helm chart for Kubernetes
     digest: 4cb3d1c1db5ca8b4b89adf814a14f0e92de8f33dbc47286cca2c118ed7155f46
@@ -38,4 +47,4 @@ entries:
     urls:
     - praeco-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-24T18:02:55.247524+09:00"
+generated: "2020-03-19T00:40:00.342349+09:00"
