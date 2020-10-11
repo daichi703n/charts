@@ -40,6 +40,15 @@ entries:
   praeco:
   - apiVersion: v1
     appVersion: 1.0.1
+    created: "2020-10-12T02:42:50.306833+09:00"
+    description: Praeco Helm chart for Kubernetes
+    digest: d8fbb83425fa2edaadd3f48829bb1d12174776669220add6d0e83d97a26cbd50
+    name: praeco
+    urls:
+    - praeco-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    appVersion: 1.0.1
     created: "2020-03-19T00:54:13.142285+09:00"
     description: Praeco Helm chart for Kubernetes
     digest: af0a7fe723ac795d10bd28cd2f4a32007430f036ea9fe432bf112ad9495644e8
@@ -65,4 +74,4 @@ entries:
     urls:
     - praeco-0.1.0.tgz
     version: 0.1.0
-generated: "2020-10-12T01:56:21.729556+09:00"
+generated: "2020-10-12T02:42:50.302971+09:00"
