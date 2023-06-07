@@ -58,6 +58,19 @@ entries:
   praeco:
   - apiVersion: v2
     appVersion: 1.8.13
+    created: "2023-06-07T02:18:24.060496182Z"
+    dependencies:
+    - name: elastalert
+      repository: https://daichi703n.github.io/charts/stable
+      version: 0.1.5
+    description: Praeco Helm chart for Kubernetes
+    digest: 1ff2b281e1a8ee3f1fdd963a4a162091b5b1cca322befa3f5d2ecfdbcfb4df0b
+    name: praeco
+    urls:
+    - praeco-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: 1.8.13
     created: "2023-05-20T06:31:43.361357915Z"
     dependencies:
     - name: elastalert
@@ -131,4 +144,4 @@ entries:
     urls:
     - praeco-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-20T06:31:43.359471948Z"
+generated: "2023-06-07T02:18:24.058565423Z"
